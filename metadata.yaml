@@ -1,0 +1,44 @@
+_repo: Tratado-de-Ortografia-Valenciana-Clasica_61594
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Llorente, Teodoro
+    alias: Olivares, Teodoro Llorente y
+    birthdate: 1836
+    deathdate: 1911
+    gutenberg_agent_id: '51484'
+    url: http://www.gutenberg.org/2009/agents/51484
+    wikipedia: https://es.wikipedia.org/wiki/Teodoro_Llorente_Olivares
+creator:
+  author:
+    agent_name: Nebot Pérez, José
+    aliases:
+    - Nebot Perez, Jose
+    - Pérez, José Nebot y
+    - Nebot y Pérez, José
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '51442'
+    url: http://www.gutenberg.org/2009/agents/51442
+    wikipedia: https://es.wikipedia.org/wiki/Jos%C3%A9_Nebot_P%C3%A9rez
+  editor:
+    agent_name: Aguilar, Ángel
+    alias: Aguilar, Angel
+    gutenberg_agent_id: '51508'
+    url: http://www.gutenberg.org/2009/agents/51508
+description: ''
+gutenberg_issued: '2020-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61594'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Catalan language -- Dialects -- Spain -- Valencia (Region)'
+- !lcsh 'Catalan language -- Orthography and spelling'
+- GITenberg
+title: Tratado de Ortografía Valenciana Clásica
+url: http://www.gutenberg.org/ebooks/61594
