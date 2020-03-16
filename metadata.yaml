@@ -1,5 +1,5 @@
 _repo: Tratado-de-Ortografia-Valenciana-Clasica_61594
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Llorente, Teodoro
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51484'
     url: http://www.gutenberg.org/2009/agents/51484
     wikipedia: https://es.wikipedia.org/wiki/Teodoro_Llorente_Olivares
+covers:
+- cover_type: archival
+  image_path: 61594-h/images/cover.jpg
 creator:
   author:
     agent_name: Nebot Pérez, José
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '51508'
     url: http://www.gutenberg.org/2009/agents/51508
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61594#Tratado-de-Ortografia-Valenciana-Clasica
 gutenberg_issued: '2020-03-10'
 gutenberg_type: Text
 identifiers:
